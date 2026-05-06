@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+requests
+joblib
+holidays
+plotly
+scikit-learn
+xgboost
+google-auth
+google-auth-oauthlib
+google-api-python-client
